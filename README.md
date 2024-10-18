@@ -18,7 +18,7 @@ The **Hotel Management System** is a Python-based application that simplifies ho
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/hotel-management-system.git
+   git clone https://github.com/Anishka2006/hotel-management-system.git
    ```
 2. **Install dependencies**:
    ```bash
