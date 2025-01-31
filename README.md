@@ -7,7 +7,7 @@ The **Hotel Management System** is a Python-based application that simplifies ho
 - **Customer Management**: Add, update, and delete customer records, including name, Aadhaar number, phone number, address, and membership status.
 - **Room Details**: Manage room availability, rent, and other details.
 - **Food Orders**: Track customer food orders and add them to the final bill.
-- **Cost Calculation**: Automatically calculate total costs, including room rent, food orders, and membership benefits.
+- **Cost Calculation**: Automatically calculates total costs, including room rent, food orders, and membership benefits.
 - **Database Integration**: All information is stored in a **MySQL** database for persistence.
 
 ## Technologies Used
